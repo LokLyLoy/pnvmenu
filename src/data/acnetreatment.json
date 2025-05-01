@@ -1,0 +1,143 @@
+{
+  "acne": [
+    {
+      "id": "baby-placenta",
+      "name": "Baby Placenta",
+      "khmerName": "ព្យាបាលមុន",
+      "description": "សេវាកម្មព្យាបាលមុខ មុន",
+      "khmerDescription": "ព្យាបាលមុន",
+      "price": 29,
+      "duration": "60 mins - 90 mins",
+      "category": "Acne",
+      "imageUrl": "/images/acne-extraction.jpg",
+      "detailedDescription": "សេវាកម្មព្យាបាលមុន",
+      "benefits": [
+        "ព្យាបាលស្បែកមុខខ្សោយ",
+        "ព្យាបាលស្បែកមុខស្ដើង ខូចរបាំងការពារស្បែក",
+        "ព្យាបាលមុខ ដែលមានមុន និង មុនកប់ច្រើន"
+
+      ],
+      "procedure": [
+        "លាងសំអាតមុខ",
+        "បូមមុនខ្សាច់ មុនអង្គាម ខ្លាញ់មុខ",
+        "លុញវីតាមីនព្យាបាលមុនគ្រប់ប្រភេទ បន្សាបផលិតផលដែលធ្លាប់លាបខុសពីមុន",
+        "ម៉ាសពន្លឺកំចាត់បាក់តេរី នឹងជួយអោយការបញ្ចូលវីតាមីនចូលបានជ្រៅ",
+        "បិតម៉ាសម្សៅតាមប្រភេទស្បែក"
+      ]
+    },
+    {
+      "id": "baby-glow",
+      "name": "Baby Glow",
+      "khmerName": "ព្យាបាលមុន",
+      "description": "សម្រាប់មុខមុនតិចៗ ស្នាមមុនថ្មីៗ",
+      "khmerDescription": "សម្រាប់មុខមុនតិចៗ ស្នាមមុនថ្មីៗ",
+      "price": 36,
+      "duration": "75 mins - 90 mins",
+      "category": "Acne",
+      "imageUrl": "/images/acne-extraction.jpg",
+      "detailedDescription": "សម្រាប់មុខមុនតិចៗ ស្នាមមុនថ្មីៗ",
+      "benefits": [
+        "ការភៀលជួយកាត់បន្ថយស្នាម",
+        "ជួយឲ្យគ្រាប់មុនដែលកប់ជ្រៅអណ្តែតមកលើ",
+        "សម្អាតគ្រាប់មុនលើស្បែក",
+        "សម្អាតគល់រោម",
+        "សម្លាប់មេរោគដែលបង្ករឲ្យឡើងមុន"
+      ],
+      "procedure": [
+        "លាងសំអាតស្បែកមុខ",
+        "បូមមុនខ្សាច់",
+        "ញិចមុន",
+        "ភៀល",
+        "លុញវីតាមីន",
+        "ម៉ាសពន្លឺ",
+        "បិតម៉ាសម្សៅ",
+        "លាបថ្នាំសម្លាប់មេរោគ",
+        "លាបលេការពារកម្តៅ"
+      ]
+    }
+  ],
+  "anti-aging": [
+    {
+      "id": "collagen-boost",
+      "name": "Collagen Boost Treatment",
+      "khmerName": "ព្យាបាលបង្កើនកូឡាសិន",
+      "description": "Advanced treatment to stimulate collagen production and reduce fine lines",
+      "khmerDescription": "ព្យាបាលបង្កើនកូឡាសិន និងកាត់បន្ថយបន្ទាត់នៃការចាស់",
+      "price": 120,
+      "duration": "90 mins",
+      "category": "Anti-Aging",
+      "imageUrl": "/images/collagen-boost.jpg",
+      "detailedDescription": "Our Collagen Boost Treatment is a revolutionary approach to combating signs of aging. Using advanced techniques and premium products, we stimulate natural collagen production to restore skin's elasticity and youthful appearance.",
+      "benefits": [
+        "Stimulates collagen production",
+        "Reduces fine lines",
+        "Improves skin elasticity",
+        "Enhances skin radiance"
+      ],
+      "procedure": [
+        "Skin analysis",
+        "Deep cleansing",
+        "Collagen-boosting serum application",
+        "Micro-needling",
+        "Hydrating mask",
+        "Protective finishing"
+      ]
+    }
+  ],
+  "hydration": [
+    {
+      "id": "hydra-intense",
+      "name": "Hydra Intense Treatment",
+      "khmerName": "ព្យាបាលសំណើមខ្ពស់",
+      "description": "Deep hydration therapy to restore skin's moisture balance",
+      "khmerDescription": "ព្យាបាលសំណើមជម្រៅដើម្បីស្ដារសមតុល្យភាពស្បែក",
+      "price": 100,
+      "duration": "75 mins",
+      "category": "Hydration",
+      "imageUrl": "/images/hydra-intense.jpg",
+      "detailedDescription": "The Hydra Intense Treatment is a comprehensive hydration therapy designed to deeply nourish and replenish your skin. We use advanced moisture-binding techniques to restore your skin's natural hydration levels.",
+      "benefits": [
+        "Deep hydration",
+        "Improves skin texture",
+        "Reduces fine lines",
+        "Restores skin barrier"
+      ],
+      "procedure": [
+        "Skin moisture analysis",
+        "Gentle cleansing",
+        "Hydration-boosting serum",
+        "Hydrating mask",
+        "Moisture-locking treatment",
+        "Protective finishing"
+      ]
+    }
+  ],
+  "brightening": [
+    {
+      "id": "radiance-renewal",
+      "name": "Radiance Renewal Treatment",
+      "khmerName": "ព្យាបាលបង្កើនពន្លឺស្បែក",
+      "description": "Comprehensive treatment to enhance skin brightness and even tone",
+      "khmerDescription": "ព្យាបាលបង្កើនពន្លឺស្បែក និងសម្រស់",
+      "price": 110,
+      "duration": "80 mins",
+      "category": "Brightening",
+      "imageUrl": "/images/radiance-renewal.jpg",
+      "detailedDescription": "Our Radiance Renewal Treatment is a transformative experience designed to brighten and even out your skin tone. Using cutting-edge brightening technologies, we help you achieve a luminous, glowing complexion.",
+      "benefits": [
+        "Evens skin tone",
+        "Reduces dark spots",
+        "Enhances natural radiance",
+        "Improves skin clarity"
+      ],
+      "procedure": [
+        "Comprehensive skin analysis",
+        "Gentle exfoliation",
+        "Brightening serum application",
+        "Illuminating mask",
+        "Tone-evening treatment",
+        "Protective finishing"
+      ]
+    }
+  ]
+}
