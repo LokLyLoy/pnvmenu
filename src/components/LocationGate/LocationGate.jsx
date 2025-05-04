@@ -2,9 +2,9 @@
 import React, { useEffect, useState } from 'react';
 
 const ALLOWED_LOCATION = {
-    lat: 11.529928, // Latitude of 88 Veng Sreng Blvd
-    lng: 104.866672, // Longitude of 88 Veng Sreng Blvd
-    radius: 200, // Radius in meters — adjust as needed
+    lat: 11.532773546615621, // Latitude of 88 Veng Sreng Blvd
+    lng: 104.87065911394852, // Longitude of 88 Veng Sreng Blvd
+    radius: 250, // Radius in meters — adjust as needed
 };
 
 function getDistanceFromLatLonInMeters(lat1, lon1, lat2, lon2) {
